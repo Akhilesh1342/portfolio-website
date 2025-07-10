@@ -12,7 +12,7 @@ const Projects = () => {
 
           <div className="bg-gray-100 p-6 rounded shadow-md">
             <h3 className="text-xl font-bold mb-2">Portfolio Website</h3>
-            <p>This site you’re looking at – built from scratch using Vite, React & Tailwind. Clean UI, smooth layout, totally A-Stacks coded.</p>
+            <p>This site you’re looking at – built from scratch using Vite, React & Tailwind.</p>
           </div>
         </div>
       </div>
