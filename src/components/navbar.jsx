@@ -6,7 +6,7 @@ const Navbar = () => {
     <img
       src="/ak(1)-Photoroom.png"
       alt="A-Stacks Logo"
-      className="h-12 w-auto transition-transform duration-300 hover:scale-120"
+      className="h-12 w-auto mix-blend-multiply transition-transform duration-300 hover:scale-120"
     />
   </a>
    
