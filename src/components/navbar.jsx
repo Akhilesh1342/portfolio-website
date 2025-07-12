@@ -4,7 +4,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
         <a href="/">
     <img
-      src="/a-favicon.png"
+      src="/ak(1)-Photoroom.jpg"
       alt="A-Stacks Logo"
       className="h-12 w-auto transition-transform duration-300 hover:scale-120"
     />
