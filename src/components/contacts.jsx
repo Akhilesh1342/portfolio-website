@@ -14,7 +14,8 @@ const Contact = () => {
           🔗 github.com/Akhilesh1342
 </a>
         <a
-            href="https://www.linkedin.com/in/akhilesh-m-165ba1373/"
+            href="
+            https://www.linkedin.com/in/akhilesh-m-165ba1373/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-xl font-medium text-blue-600 hover:underline hover:text-blue-800 transition"
