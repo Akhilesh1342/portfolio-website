@@ -30,7 +30,7 @@ const Contact = () => {
   <p>
     🔗{' '}
     <a
-      href="https://linkedin.com/in/akhilesh-m165ba1373/"
+      href="https://www.linkedin.com/in/akhilesh-m-165ba1373/"
       target="_blank"
       rel="noopener noreferrer"
       className="text-blue-600 underline hover:text-blue-800"
