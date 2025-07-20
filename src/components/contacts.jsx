@@ -13,15 +13,11 @@ const Contact = () => {
         >
           🔗 github.com/Akhilesh1342
 </a>
-        <a
-            href="
-            https://www.linkedin.com/in/akhilesh-m-165ba1373/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-xl font-medium text-blue-600 hover:underline hover:text-blue-800 transition"
-        >
-          🔗 linkedin.com/Akhilesh M 
-</a>
+        <p>
+    <a href="https://www.linkedin.com/in/akhilesh-m" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">
+      linkedin.com/in/akhilesh-m
+    </a>
+  </p>
 
       </div>
     </section>
